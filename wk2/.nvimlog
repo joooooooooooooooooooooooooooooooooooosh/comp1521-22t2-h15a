@@ -1,0 +1,4 @@
+WARN  2022-06-09T15:05:07.376 3032774 log_path_init:95: Failed to create directory /import/kamen/4/z5218547/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-06-09T15:17:34.340 3043902 log_path_init:95: Failed to create directory /import/kamen/4/z5218547/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-06-09T15:20:08.663 3045883 log_path_init:95: Failed to create directory /import/kamen/4/z5218547/.cache/nvim for writing logs: Unknown system error 1
+WARN  2022-06-09T15:20:50.150 3046532 log_path_init:95: Failed to create directory /import/kamen/4/z5218547/.cache/nvim for writing logs: Unknown system error 1
